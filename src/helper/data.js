@@ -14,7 +14,7 @@ const data = [
       },
     },
     {
-      photographer: 'ἐμμανυελ  ',
+      photographer: 'Immanuel',
       src: {
         large:
           'https://images.pexels.com/photos/12182835/pexels-photo-12182835.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',

@@ -16,10 +16,11 @@
 }
 
 .pictures{
-   
     width: 23%;
     height: 30vh;
     overflow: hidden;
+    position: relative;
+   
     
 }
 
@@ -35,4 +36,15 @@
 
 .images:hover{
     transform: scale(1.1);
+}
+
+
+.photographer-name{
+    position: absolute; 
+  bottom: 10px; 
+  left: 10px;
+  color: white; 
+  font-size: 14px; 
+  font-weight: bold;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6); 
 }
